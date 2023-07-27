@@ -13,4 +13,7 @@
   <li>Node.js</li>
   </ul>
 
+<img width="778" alt="Screenshot 2023-07-25 at 2 27 28 PM" src="https://github.com/DarrianYang/lapnt/assets/101906429/d1632e2a-aebd-4b8b-bd0e-70823d73a2e4">
+
+
 
